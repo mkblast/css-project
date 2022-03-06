@@ -79,11 +79,15 @@ a {
 }
 
 .image {
-    flex: 0 0 auto;
+    color: #F9FAF8;
     background-color: #6d747d;
     height: 300px;
     width: 600px;
     border-radius: 5px;
+    flex: 0 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .info {
